@@ -1,0 +1,9 @@
+[submodule "references/osTicket"]
+	path = references/osTicket
+	url = https://github.com/osTicket/osTicket.git
+[submodule "references/osTicket-plugins"]
+	path = references/osTicket-plugins
+	url = https://github.com/osTicket/osTicket-plugins.git
+[submodule "references/OpenFieldService"]
+	path = references/OpenFieldService
+	url = https://github.com/clawnify/OpenFieldService.git
